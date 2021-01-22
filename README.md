@@ -3,6 +3,13 @@
 </p>
 <h2 align="center">Hi there <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"> well, in short, you understand</h2>
 
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/yakunintest/yakunintest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakunintest&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
 <!--
 <table><tr><td valign="top" width="50%">
 
